@@ -8,11 +8,11 @@ Change configuration variables at main.py
     SERVER_ADDRESS=<Kafka broker url>:<kafka broker port>
 
 # Produce messages:
-    pythom main.py produce {mesasge}
+    python main.py produce {mesasge}
     // use with --help for more options
 
 # Consume messages:
-    pythom main.py consume 
+    python main.py consume 
     // use with --help for more options
 
 
